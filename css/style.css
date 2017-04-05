@@ -1,0 +1,27 @@
+.nav li {
+  padding: 10px;
+  margin-right: 20px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 150px;
+}
+
+input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+#search-bar {
+  width: 600px;
+  padding: 5px;
+}
+
+.search-button {
+  align-items: center;
+}
