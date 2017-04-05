@@ -1,2 +1,4 @@
 # google-homepage
-Odin Project practice
+Odin Project practice:
+
+Recreate the Google Homepage
